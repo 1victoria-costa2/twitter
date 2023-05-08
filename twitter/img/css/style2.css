@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+}
+.barra{
+   background-color: white;
+   width: 300px;
+}
+.titulo{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}

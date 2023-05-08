@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 150px;
+}
+.container{
+    background-color: aliceblue;
+    margin-top: 10px;
+    width: 370px;
+    height: 450px;
+    border-radius: 10px;
+    text-align: center;
+ 
+}
+.titulo{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+    text-align: center;
+}
+.logo{
+    margin-top: 20px;
+    color: #00acee;
+}
+.google{
+    border-radius: 10px;
+    width: 230px;
+    height: 30px;
+}
+.entrar{
+  
+    border-radius: 10px;
+    width: 230px;
+    height: 30px;
+}
+.usuario{
+    width: 215px;
+    height: 40px;
+}
+.avancar{
+    margin-top: 15px;
+    border-radius: 10px;
+    width: 200px;
+    height: 25px;
+    background-color: black;
+    color: white;
+}
+.esqueceu{
+    margin-top: 25px;
+    border-radius: 10px;
+    border-color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.conta{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-top: 20px;
+}
